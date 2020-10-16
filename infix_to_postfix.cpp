@@ -5,6 +5,8 @@ using namespace std;
 struct node
 {
   int info;
+  int abe;
+	
   struct node* next;	
 };
 typedef struct node queue;
